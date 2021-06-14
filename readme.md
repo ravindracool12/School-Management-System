@@ -31,14 +31,6 @@ Check Laravel 8 Requirements https://laravel.com/docs/8.x
 **Login Credentials**
 After seeding. Login details as follows:
 
-| Account Type  | Username | Email | Password |
-| ------------- | -------- | ----- | -------- |
-| Super Admin | cj | cj@cj.com | cj |
-|  Admin | admin | admin@admin.com | cj |
-|  Teacher | teacher | teacher@teacher.com | cj |
-|  Parent | parent | parent@parent.com | cj |
-|  Accountant | accountant | accountant@accountant.com | cj |
-|  Student | student | student@student.com | cj |
 
 #### **FUNCTIONS OF ACCOUNTS** 
 
@@ -97,5 +89,5 @@ Your Contributions & suggestions are welcomed.
 
 If you discover a security vulnerability within LAVSMS, please use pull request. All security vulnerabilities will be promptly addressed.
 
-### **Contact [CJ INSPIRED]**
-- Phone : +2347068149559
+### **Contact [Ravindra Kumar]**
+- Phone : +919120029239
